@@ -4,4 +4,4 @@ i like building websites, designing interfaces, and making things work a little 
 
 ### socials
 
-[website](https://pandyashweta-portfolio.vercel.app/) · [linkedin](https://www.linkedin.com/in/pandyashweta/) · [email](mailto:pandyashweta.in@gmail.com) · [résumé](./shwetapandya-resume_1.pdf)
+[website](https://pandyashweta-portfolio.vercel.app/) · [linkedin](https://www.linkedin.com/in/pandyashweta/) · [email](mailto:pandyashweta.in@gmail.com)
