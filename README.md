@@ -5,13 +5,9 @@ i like building websites, designing interfaces, and making things work a little 
 ### what i work with
 
 **programming & web:** python · java · javascript (es6+) · html5 · css3 · react.js · next.js · node.js · tailwind css
-
 **data & analytics:** microsoft excel · data analysis · data management · market research · imagej
-
 **design:** figma · ui/ux design · wireframing · prototyping · responsive design
-
 **tools:** git · github · vs code · woocommerce · vercel
-
 **business & product:** business analysis · business operations · product development · technical documentation · agile collaboration
 
 ### Socials
