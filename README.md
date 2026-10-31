@@ -1,3 +1,3 @@
-hi, i'm **shweta**. I code, and I just finished my master's degree.
+hi, i'm **shweta**. I code, and I finished my master's degree.
 
-I like building websites, designing interfaces, and making things work and in the process create something that can be useful.
+I like building websites, designing interfaces, and making things work, and in the process, creating something that can be useful.
