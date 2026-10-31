@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./eye-animation.mp4" width="300" alt="eye animation">
+  <img src="./eye-animation.gif" width="300" alt="eye animation">
 </p>
 
 hi, i'm **shweta**. I code, and I just finished my master's degree.
