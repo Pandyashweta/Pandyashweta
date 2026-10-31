@@ -1,3 +1,7 @@
-hi, i'm **shweta pandya**. i code, and i just finished my master's degree in information technology at **the Maharaja Sayajirao University of Baroda**.
+<p align="center">
+  <img src="./eye-animation.gif" width="300" alt="eye animation">
+</p>
 
-i like building websites, designing interfaces, and making things work a little better than they did before.
+hi, i'm **shweta**. I code, and I just finished my master's degree.
+
+I like building websites, designing interfaces, and making things work and in the process create something that can be useful.
